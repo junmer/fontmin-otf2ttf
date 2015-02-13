@@ -1,0 +1,39 @@
+{
+  "name": "fontmin-otf2ttf",
+  "version": "0.0.0",
+  "description": "otf2ttf fontmin plugin",
+  "license": "MIT",
+  "repository": "junmer/fontmin-otf2ttf",
+  "author": "junmer",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js",
+    "ttf-empty.json"
+  ],
+  "keywords": [
+    "compress",
+    "gulp plugin",
+    "font",
+    "fontmin plugin",
+    "minify",
+    "optimize",
+    "otf",
+    "otf2ttf"
+  ],
+  "dependencies": {
+    "fonteditor-ttf": "0.0.5",
+    "is-otf": "^0.1.1",
+    "opentype.js": "^0.4.4",
+    "through2": "^0.6.1"
+  },
+  "devDependencies": {
+    "is-ttf": "^0.2.0",
+    "mocha": "^2.1.0",
+    "vinyl-file": "^1.1.0"
+  }
+}
