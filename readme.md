@@ -1,4 +1,4 @@
-# fontmin-otf2ttf [![Build Status](http://img.shields.io/travis/fontmin/fontmin-otf2ttf.svg?style=flat)](https://travis-ci.org/fontmin/fontmin-otf2ttf) 
+# fontmin-otf2ttf [![Build Status](http://img.shields.io/travis/junmer/fontmin-otf2ttf.svg?style=flat)](https://travis-ci.org/junmer/fontmin-otf2ttf) 
 
 > otf2ttf fontmin plugin
 
@@ -11,7 +11,6 @@ NOTICE: not ready, don't use util released
 ```sh
 $ npm install --save fontmin-otf2ttf
 ```
-
 
 ## Usage
 
