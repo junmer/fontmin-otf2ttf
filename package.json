@@ -26,6 +26,7 @@
     "otf2ttf"
   ],
   "dependencies": {
+    "b3b": "0.0.1",
     "fonteditor-ttf": "0.0.5",
     "is-otf": "^0.1.1",
     "opentype.js": "^0.4.4",
